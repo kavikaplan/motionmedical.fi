@@ -45,7 +45,7 @@ window.SITE = {
     instagram: "https://www.instagram.com/motionmedical.fi/",
     facebook:  "https://www.facebook.com/profile.php?id=61589385234193",
     tiktok:    "https://www.tiktok.com/@motionmedical.fi",
-    linkedin:  "https://www.linkedin.com/in/kavikaplan/",
+    linkedin:  "https://www.linkedin.com/company/motionmedi",
   },
 };
 
